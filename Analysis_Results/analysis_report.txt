@@ -1,0 +1,30 @@
+BLOOD BANK & DONOR DATA ANALYSIS REPORT
+================================================
+Total donor records analysed: 118
+Average age: 38.61 years
+Median age: 36.00 years
+Average donation count: 4.05
+Average distance (km): 7.77
+Most frequently recorded blood group: O+ve
+Most common donation status: Eligible
+Most common donor availability status: Available
+Records marked Eligible: 97 (82.2%)
+
+DONOR RECORDS BY BLOOD GROUP
+--------------------------------
+O+ve: 40
+A+ve: 30
+B+ve: 23
+AB+ve: 12
+O-ve: 6
+B-ve: 3
+A-ve: 3
+AB-ve: 1
+
+DONATION STATUS COUNTS
+------------------------
+Eligible: 97
+Not Eligible: 20
+Unknown: 1
+
+Note: This report describes the supplied dataset only. It does not determine medical eligibility or guarantee real-time blood availability.

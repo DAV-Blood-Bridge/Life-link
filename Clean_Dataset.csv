@@ -1,0 +1,119 @@
+Name,Blood Group,Age,Age Group,Gender,Place,Donation Status,Eligibility Reason,Donation Count,Blood Bank,Distance (km),Donor Availability,Preferred Donation Center,Nearby Hospital
+Althaf S Bijo Babu,O+ve,21,18-25,Male,Hasanparthy,Eligible,Meets Donation Criteria,1.0,Mgm Blood Bank,7.6,Unavailable,Government Blood Bank - Hanamkonda,Kakatiya Medical College Hospital
+Bimal Raj,O+ve,54,46-55,Male,Subedari,Eligible,Meets Donation Criteria,8.0,Mgm Hospital Blood Bank,12.2,Available,Indian Red Cross Blood Bank,Mgm Hospital
+Priyanka Rao,O+ve,31,26-35,Female,Deshaipet,Eligible,Meets Donation Criteria,8.0,Indian Red Cross Blood Bank,14.3,Unavailable,Government Blood Bank - Hanamkonda,Aditya Hospital
+Sandeep Reddy,O+ve,32,26-35,Male,Hanamkonda,Not Eligible,Medical Screening,1.0,Indian Red Cross Blood Bank,1.1,Available,Mgm Blood Bank,Kakatiya Medical College Hospital
+Harika Sharma,B-ve,57,56-60,Female,Bhattupally,Eligible,Meets Donation Criteria,1.0,Mgm Hospital Blood Bank,4.9,Available,Mgm Blood Bank,Mgm Hospital
+Nived Joshy K,O+ve,53,46-55,Male,Bhattupally,Not Eligible,Temporary Illness,5.0,Warangal Blood Bank,10.1,Available,Indian Red Cross Blood Bank,Aditya Hospital
+Sravani Kumar,O+ve,53,46-55,Female,Dharmasagar,Eligible,Meets Donation Criteria,8.0,Government Blood Bank - Hanamkonda,12.5,Unavailable,Warangal Blood Bank,Prathima Relief Institute
+Rakesh Naik,O+ve,41,36-45,Male,Dharmasagar,Eligible,Meets Donation Criteria,8.0,Warangal Blood Bank,7.2,Available,Government Blood Bank - Hanamkonda,Mgm Hospital
+Sharon Tk,O-ve,58,56-60,Male,Kishanpura,Eligible,Meets Donation Criteria,2.0,Indian Red Cross Blood Bank,10.2,Unavailable,Government Blood Bank - Hanamkonda,Rohini Super Speciality Hospital
+Naveen Kumar,AB+ve,26,26-35,Male,Fort Warangal,Eligible,Meets Donation Criteria,0.0,Mgm Blood Bank,6.4,Unavailable,Community Blood Donation Center,Max Care Hospital
+Anurag D,O+ve,28,26-35,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,8.0,Warangal Blood Bank,2.7,Available,Community Blood Donation Center,Prathima Relief Institute
+Ananya Reddy,O+ve,32,26-35,Female,Sangem,Eligible,Meets Donation Criteria,8.0,Mgm Hospital Blood Bank,7.7,Available,Government Blood Bank - Hanamkonda,Aditya Hospital
+Tejaswini Kumar,A+ve,40,36-45,Female,Hunter Road,Unknown,Meets Donation Criteria,7.0,Mgm Hospital Blood Bank,5.0,Unavailable,Community Blood Donation Center,Aditya Hospital
+Pretheesh,B+ve,59,56-60,Male,Hanamkonda,Eligible,Meets Donation Criteria,1.0,Indian Red Cross Blood Bank,10.8,Unavailable,Not Specified,Max Care Hospital
+Jayadevan,AB+ve,52,46-55,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,8.0,Government Blood Bank - Hanamkonda,3.1,Available,Community Blood Donation Center,Kakatiya Medical College Hospital
+Sravani Kumar,B+ve,26,26-35,Female,Kishanpura,Eligible,Meets Donation Criteria,6.0,Warangal Blood Bank,6.7,Available,Government Blood Bank - Hanamkonda,Aditya Hospital
+Kiran Kumar,A+ve,47,46-55,Male,Balasamudram,Eligible,Meets Donation Criteria,3.0,Mgm Hospital Blood Bank,7.0,Available,Mgm Blood Bank,Kakatiya Medical College Hospital
+Priyanka Rao,A+ve,43,36-45,Female,Hasanparthy,Eligible,Meets Donation Criteria,6.0,Mgm Hospital Blood Bank,7.4,Unavailable,Warangal Blood Bank,Prathima Relief Institute
+Sneha Varma,B+ve,27,26-35,Female,Balasamudram,Eligible,Meets Donation Criteria,5.0,Mgm Hospital Blood Bank,0.8,Available,Indian Red Cross Blood Bank,Prathima Relief Institute
+Kiran Kumar,A+ve,55,46-55,Male,Lashkar Bazar,Eligible,Meets Donation Criteria,8.0,Mgm Blood Bank,5.2,Available,Warangal Blood Bank,Mgm Hospital
+Amal Prakash,A+ve,35,26-35,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,8.0,Warangal Blood Bank,6.8,Unavailable,Mgm Blood Bank,Max Care Hospital
+Mohamed Faris M,O+ve,32,26-35,Male,Kazipet,Not Eligible,Age Restriction,5.0,Mgm Blood Bank,6.6,Unavailable,Government Blood Bank - Hanamkonda,Mgm Hospital
+Aswin A P,B+ve,19,18-25,Male,Sangem,Eligible,Meets Donation Criteria,0.0,Indian Red Cross Blood Bank,13.3,Available,Government Blood Bank - Hanamkonda,Rohini Super Speciality Hospital
+Vishnu V S,A+ve,22,18-25,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,4.0,Warangal Blood Bank,8.6,Unavailable,Warangal Blood Bank,Rohini Super Speciality Hospital
+Abhijith Subash,O+ve,33,26-35,Male,Kothawada,Eligible,Meets Donation Criteria,2.0,Indian Red Cross Blood Bank,10.1,Unavailable,Community Blood Donation Center,Max Care Hospital
+Pooja Naik,O+ve,44,36-45,Female,Lashkar Bazar,Eligible,Meets Donation Criteria,7.0,Government Blood Bank - Hanamkonda,14.4,Available,Community Blood Donation Center,Max Care Hospital
+Harika Sharma,O+ve,31,26-35,Female,Dharmasagar,Eligible,Meets Donation Criteria,4.0,Mgm Hospital Blood Bank,8.0,Unavailable,Community Blood Donation Center,Max Care Hospital
+Nithin Sojan,AB+ve,38,36-45,Male,Balasamudram,Eligible,Meets Donation Criteria,8.0,Government Blood Bank - Hanamkonda,5.2,Available,Mgm Blood Bank,Kakatiya Medical College Hospital
+Harika Sharma,O+ve,23,18-25,Female,Dharmasagar,Not Eligible,Recent Donation,5.0,Warangal Blood Bank,4.3,Unavailable,Warangal Blood Bank,Prathima Relief Institute
+Mohammed Shijas V,O-ve,27,26-35,Male,Mulugu Road,Eligible,Meets Donation Criteria,5.0,Indian Red Cross Blood Bank,7.2,Unavailable,Mgm Blood Bank,Government Hospital Hanamkonda
+Naseef Pk,A+ve,31,26-35,Male,Fort Warangal,Eligible,Meets Donation Criteria,3.0,Indian Red Cross Blood Bank,9.9,Available,Warangal Blood Bank,Government Hospital Hanamkonda
+Muhammad Safvan,O+ve,49,46-55,Male,Deshaipet,Eligible,Meets Donation Criteria,7.0,Indian Red Cross Blood Bank,4.0,Unavailable,Community Blood Donation Center,Kakatiya Medical College Hospital
+Pretheesh,B+ve,59,56-60,Male,Hanamkonda,Eligible,Meets Donation Criteria,1.0,Indian Red Cross Blood Bank,10.8,Unavailable,Warangal Blood Bank,Max Care Hospital
+Anirudhan A K,A-ve,23,18-25,Male,Subedari,Not Eligible,Age Restriction,4.0,Indian Red Cross Blood Bank,4.5,Unavailable,Warangal Blood Bank,Government Hospital Hanamkonda
+Abin E Savio,A+ve,35,26-35,Male,Deshaipet,Eligible,Meets Donation Criteria,6.0,Mgm Hospital Blood Bank,12.7,Available,Government Blood Bank - Hanamkonda,Max Care Hospital
+Amal Krishnan,O-ve,24,18-25,Male,Fort Warangal,Eligible,Meets Donation Criteria,7.0,Government Blood Bank - Hanamkonda,13.1,Available,Indian Red Cross Blood Bank,Max Care Hospital
+Keerthana Rao,AB+ve,35,26-35,Female,Hanamkonda,Eligible,Meets Donation Criteria,1.0,Mgm Hospital Blood Bank,9.1,Unavailable,Warangal Blood Bank,Prathima Relief Institute
+Sravani Kumar,O+ve,43,36-45,Female,Nit Warangal Area,Eligible,Meets Donation Criteria,3.0,Mgm Blood Bank,9.1,Available,Warangal Blood Bank,Aditya Hospital
+Deepu Balan,O+ve,56,56-60,Male,Kothawada,Eligible,Meets Donation Criteria,7.0,Indian Red Cross Blood Bank,8.9,Available,Warangal Blood Bank,Max Care Hospital
+Sajad Aswin Tr,AB+ve,42,36-45,Male,Fort Warangal,Eligible,Meets Donation Criteria,5.0,Mgm Hospital Blood Bank,3.4,Available,Indian Red Cross Blood Bank,Max Care Hospital
+Adith P,A+ve,47,46-55,Male,Kazipet,Eligible,Meets Donation Criteria,4.0,Government Blood Bank - Hanamkonda,13.7,Unavailable,Indian Red Cross Blood Bank,Prathima Relief Institute
+Hari Prasad Ts,O+ve,24,18-25,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,0.0,Mgm Hospital Blood Bank,9.3,Unavailable,Warangal Blood Bank,Prathima Relief Institute
+Mounika Sharma,O-ve,22,18-25,Female,Bhattupally,Eligible,Meets Donation Criteria,8.0,Indian Red Cross Blood Bank,7.2,Unavailable,Community Blood Donation Center,Aditya Hospital
+Nandini Reddy,A+ve,30,26-35,Female,Deshaipet,Not Eligible,Recent Donation,1.0,Mgm Hospital Blood Bank,12.0,Unavailable,Indian Red Cross Blood Bank,Kakatiya Medical College Hospital
+Akash S,B+ve,22,18-25,Male,Gopalpur,Eligible,Meets Donation Criteria,7.0,Warangal Blood Bank,8.7,Unavailable,Government Blood Bank - Hanamkonda,Max Care Hospital
+Kavya Reddy,A+ve,28,26-35,Female,Hunter Road,Eligible,Meets Donation Criteria,4.0,Indian Red Cross Blood Bank,4.0,Available,Government Blood Bank - Hanamkonda,Mgm Hospital
+Sugidh P,A+ve,45,36-45,Male,Warangal,Eligible,Meets Donation Criteria,5.0,Mgm Blood Bank,7.4,Unavailable,Mgm Blood Bank,Prathima Relief Institute
+Vishnu C P,B+ve,34,26-35,Male,Matwada,Eligible,Meets Donation Criteria,2.0,Mgm Hospital Blood Bank,4.8,Unavailable,Indian Red Cross Blood Bank,Government Hospital Hanamkonda
+Sneha Varma,A+ve,23,18-25,Female,Fort Warangal,Eligible,Meets Donation Criteria,8.0,Indian Red Cross Blood Bank,9.9,Available,Mgm Blood Bank,Mgm Hospital
+Arjun Reddy,A+ve,58,56-60,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,5.0,Mgm Blood Bank,9.1,Available,Warangal Blood Bank,Government Hospital Hanamkonda
+Aishwarya Rao,B-ve,39,36-45,Female,Deshaipet,Eligible,Meets Donation Criteria,3.0,Government Blood Bank - Hanamkonda,5.8,Unavailable,Warangal Blood Bank,Max Care Hospital
+Lavanya Reddy,B+ve,28,26-35,Female,Madikonda,Eligible,Meets Donation Criteria,1.0,Government Blood Bank - Hanamkonda,4.5,Available,Indian Red Cross Blood Bank,Kakatiya Medical College Hospital
+Aishwarya Rao,B+ve,28,26-35,Female,Subedari,Eligible,Meets Donation Criteria,6.0,Mgm Hospital Blood Bank,5.2,Unavailable,Indian Red Cross Blood Bank,Government Hospital Hanamkonda
+Rohit Naik,B+ve,38,36-45,Male,Fort Warangal,Eligible,Meets Donation Criteria,2.0,Mgm Hospital Blood Bank,4.6,Available,Community Blood Donation Center,Rohini Super Speciality Hospital
+Ajith Kumar R,O+ve,18,18-25,Male,Kishanpura,Not Eligible,Medical Screening,5.0,Indian Red Cross Blood Bank,9.5,Unavailable,Government Blood Bank - Hanamkonda,Kakatiya Medical College Hospital
+Sayanth Santhosh,A+ve,42,36-45,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,2.0,Mgm Hospital Blood Bank,11.4,Unavailable,Government Blood Bank - Hanamkonda,Rohini Super Speciality Hospital
+Ananya Reddy,O+ve,20,18-25,Female,Hunter Road,Eligible,Meets Donation Criteria,6.0,Government Blood Bank - Hanamkonda,8.8,Unavailable,Mgm Blood Bank,Rohini Super Speciality Hospital
+Priyanka Rao,O+ve,60,56-60,Female,Hunter Road,Not Eligible,Temporary Illness,3.0,Warangal Blood Bank,8.2,Unavailable,Mgm Blood Bank,Government Hospital Hanamkonda
+Anzil Rahman,O+ve,59,56-60,Male,Balasamudram,Eligible,Meets Donation Criteria,4.0,Government Blood Bank - Hanamkonda,8.6,Unavailable,Community Blood Donation Center,Kakatiya Medical College Hospital
+Priyanka Rao,O+ve,60,56-60,Female,Hunter Road,Not Eligible,Temporary Illness,3.0,Warangal Blood Bank,8.2,Unavailable,Not Specified,Government Hospital Hanamkonda
+Sneha Varma,O+ve,56,56-60,Female,Lashkar Bazar,Eligible,Meets Donation Criteria,2.0,Indian Red Cross Blood Bank,7.3,Available,Indian Red Cross Blood Bank,Aditya Hospital
+Shibin S Abhijith Raju,A+ve,53,46-55,Male,Deshaipet,Eligible,Meets Donation Criteria,8.0,Mgm Hospital Blood Bank,5.4,Available,Community Blood Donation Center,Max Care Hospital
+Divya Reddy,B+ve,42,36-45,Female,Hasanparthy,Eligible,Meets Donation Criteria,0.0,Mgm Blood Bank,7.6,Available,Warangal Blood Bank,Aditya Hospital
+Selva Kumar P,O+ve,23,18-25,Male,Hasanparthy,Eligible,Meets Donation Criteria,0.0,Mgm Blood Bank,14.5,Unavailable,Mgm Blood Bank,Max Care Hospital
+Jibin Francis,O-ve,33,26-35,Male,Balasamudram,Eligible,Meets Donation Criteria,1.0,Warangal Blood Bank,14.1,Unavailable,Community Blood Donation Center,Prathima Relief Institute
+Thejas.K,AB+ve,32,26-35,Male,Kazipet,Eligible,Meets Donation Criteria,6.0,Government Blood Bank - Hanamkonda,10.1,Unavailable,Community Blood Donation Center,Kakatiya Medical College Hospital
+Rohit Naik,O+ve,53,46-55,Male,Ursu,Not Eligible,Medical Screening,2.0,Government Blood Bank - Hanamkonda,1.3,Available,Warangal Blood Bank,Mgm Hospital
+Ahmed Rameez,A+ve,52,46-55,Male,Dharmasagar,Eligible,Meets Donation Criteria,4.0,Mgm Hospital Blood Bank,4.1,Unavailable,Community Blood Donation Center,Government Hospital Hanamkonda
+Mohammed Yashin,B+ve,35,26-35,Male,Deshaipet,Eligible,Meets Donation Criteria,3.0,Warangal Blood Bank,13.3,Unavailable,Indian Red Cross Blood Bank,Prathima Relief Institute
+Abhijith Kk,O+ve,35,26-35,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,0.0,Indian Red Cross Blood Bank,13.8,Unavailable,Indian Red Cross Blood Bank,Mgm Hospital
+Albert Joshy,O+ve,59,56-60,Male,Kishanpura,Eligible,Meets Donation Criteria,6.0,Mgm Hospital Blood Bank,11.7,Unavailable,Warangal Blood Bank,Government Hospital Hanamkonda
+Pooja Naik,A+ve,34,26-35,Female,Kishanpura,Eligible,Meets Donation Criteria,8.0,Indian Red Cross Blood Bank,8.5,Available,Mgm Blood Bank,Government Hospital Hanamkonda
+Mounika Sharma,A+ve,35,26-35,Female,Rangashaipet,Eligible,Meets Donation Criteria,3.0,Mgm Hospital Blood Bank,14.2,Available,Community Blood Donation Center,Government Hospital Hanamkonda
+Abhishek A,A+ve,20,18-25,Male,Matwada,Eligible,Meets Donation Criteria,1.0,Mgm Hospital Blood Bank,4.2,Available,Community Blood Donation Center,Mgm Hospital
+Vishnu Tp,AB-ve,45,36-45,Male,Hunter Road,Eligible,Meets Donation Criteria,5.0,Indian Red Cross Blood Bank,7.1,Available,Mgm Blood Bank,Kakatiya Medical College Hospital
+Kavya Reddy,A-ve,60,56-60,Female,Warangal,Eligible,Meets Donation Criteria,3.0,Indian Red Cross Blood Bank,9.4,Unavailable,Warangal Blood Bank,Mgm Hospital
+Nithin Sojan,AB+ve,34,26-35,Male,Gopalpur,Not Eligible,Temporary Illness,0.0,Mgm Hospital Blood Bank,14.0,Available,Warangal Blood Bank,Aditya Hospital
+Nandini Reddy,A+ve,31,26-35,Female,Gopalpur,Eligible,Meets Donation Criteria,5.0,Government Blood Bank - Hanamkonda,6.4,Unavailable,Government Blood Bank - Hanamkonda,Rohini Super Speciality Hospital
+Muhammed Shabeeb P,O+ve,58,56-60,Male,Fort Warangal,Eligible,Meets Donation Criteria,7.0,Government Blood Bank - Hanamkonda,10.6,Available,Mgm Blood Bank,Rohini Super Speciality Hospital
+Divya Reddy,A+ve,33,26-35,Female,Gopalpur,Eligible,Meets Donation Criteria,0.0,Mgm Hospital Blood Bank,4.0,Unavailable,Warangal Blood Bank,Mgm Hospital
+Arjun Reddy,O+ve,32,26-35,Male,Dharmasagar,Not Eligible,Low Hemoglobin,4.0,Mgm Blood Bank,1.7,Unavailable,Warangal Blood Bank,Aditya Hospital
+Praveen Rao,A+ve,55,46-55,Male,Ursu,Not Eligible,Low Hemoglobin,4.0,Mgm Hospital Blood Bank,5.5,Available,Government Blood Bank - Hanamkonda,Max Care Hospital
+Manoj Kumar,O+ve,23,18-25,Male,Rangashaipet,Not Eligible,Recent Donation,1.0,Government Blood Bank - Hanamkonda,9.1,Available,Government Blood Bank - Hanamkonda,Aditya Hospital
+Mohammed Thoufeek H S,O+ve,46,46-55,Male,Nit Warangal Area,Eligible,Meets Donation Criteria,7.0,Mgm Hospital Blood Bank,0.9,Unavailable,Warangal Blood Bank,Prathima Relief Institute
+Anandhu Mahadev,B+ve,59,56-60,Male,Balasamudram,Not Eligible,Age Restriction,1.0,Mgm Hospital Blood Bank,3.8,Available,Government Blood Bank - Hanamkonda,Prathima Relief Institute
+Mohammed Ijas S,A+ve,19,18-25,Male,Matwada,Eligible,Meets Donation Criteria,8.0,Mgm Hospital Blood Bank,11.4,Unavailable,Government Blood Bank - Hanamkonda,Prathima Relief Institute
+Hashin Krishna T P,O+ve,40,36-45,Male,Subedari,Eligible,Meets Donation Criteria,2.0,Mgm Blood Bank,2.9,Unavailable,Government Blood Bank - Hanamkonda,Government Hospital Hanamkonda
+Divya Reddy,O+ve,30,26-35,Female,Rangashaipet,Eligible,Meets Donation Criteria,1.0,Mgm Blood Bank,14.3,Unavailable,Warangal Blood Bank,Rohini Super Speciality Hospital
+Mohammed Thashriefkk,A-ve,39,36-45,Male,Hunter Road,Eligible,Meets Donation Criteria,8.0,Mgm Blood Bank,2.2,Available,Warangal Blood Bank,Aditya Hospital
+Adarsh P,B+ve,40,36-45,Male,Rangashaipet,Eligible,Meets Donation Criteria,1.0,Mgm Blood Bank,8.1,Available,Warangal Blood Bank,Max Care Hospital
+Arwin Augustine,AB+ve,50,46-55,Male,Enumamula,Eligible,Meets Donation Criteria,3.0,Mgm Blood Bank,12.6,Available,Mgm Blood Bank,Aditya Hospital
+Anandhu Gopidas,O-ve,45,36-45,Male,Ursu,Eligible,Meets Donation Criteria,3.0,Indian Red Cross Blood Bank,15.0,Unavailable,Warangal Blood Bank,Rohini Super Speciality Hospital
+Sandeep Reddy,B+ve,54,46-55,Male,Kothawada,Not Eligible,Recent Donation,0.0,Mgm Hospital Blood Bank,3.3,Available,Warangal Blood Bank,Kakatiya Medical College Hospital
+Yedhukrishnan,B-ve,38,36-45,Male,Bhattupally,Eligible,Meets Donation Criteria,4.0,Government Blood Bank - Hanamkonda,4.0,Unavailable,Government Blood Bank - Hanamkonda,Prathima Relief Institute
+Saifudheen N,O+ve,36,36-45,Male,Sangem,Eligible,Meets Donation Criteria,7.0,Mgm Hospital Blood Bank,1.5,Unavailable,Warangal Blood Bank,Max Care Hospital
+Swathi Rao,O+ve,55,46-55,Female,Matwada,Not Eligible,Temporary Illness,2.0,Mgm Hospital Blood Bank,4.1,Available,Mgm Blood Bank,Aditya Hospital
+Vipin G,B+ve,52,46-55,Male,Subedari,Eligible,Meets Donation Criteria,0.0,Government Blood Bank - Hanamkonda,5.9,Available,Government Blood Bank - Hanamkonda,Government Hospital Hanamkonda
+Vishnu K,B+ve,56,56-60,Male,Kishanpura,Eligible,Meets Donation Criteria,4.0,Indian Red Cross Blood Bank,12.5,Available,Indian Red Cross Blood Bank,Mgm Hospital
+Lavanya Reddy,B+ve,42,36-45,Female,Kishanpura,Not Eligible,Recent Donation,4.0,Government Blood Bank - Hanamkonda,10.9,Available,Indian Red Cross Blood Bank,Mgm Hospital
+Swathi Rao,A+ve,41,36-45,Female,Matwada,Eligible,Unknown,2.0,Government Blood Bank - Hanamkonda,3.1,Available,Government Blood Bank - Hanamkonda,Kakatiya Medical College Hospital
+Praveen Rao,AB+ve,24,18-25,Male,Hanamkonda,Eligible,Meets Donation Criteria,7.0,Indian Red Cross Blood Bank,11.8,Available,Community Blood Donation Center,Aditya Hospital
+Nandini Reddy,B+ve,20,18-25,Female,Kothawada,Eligible,Meets Donation Criteria,6.0,Warangal Blood Bank,5.4,Available,Warangal Blood Bank,Rohini Super Speciality Hospital
+Muzammil,AB+ve,32,26-35,Male,Hanamkonda,Eligible,Meets Donation Criteria,7.0,Warangal Blood Bank,0.7,Available,Indian Red Cross Blood Bank,Prathima Relief Institute
+Sangeesth C S,A+ve,19,18-25,Male,Fort Warangal,Eligible,Meets Donation Criteria,1.0,Government Blood Bank - Hanamkonda,13.7,Unavailable,Indian Red Cross Blood Bank,Prathima Relief Institute
+Tejaswini Kumar,B+ve,35,26-35,Female,Fort Warangal,Not Eligible,Recent Donation,1.0,Mgm Blood Bank,8.8,Available,Warangal Blood Bank,Prathima Relief Institute
+Ashish Antony,O+ve,47,46-55,Male,Balasamudram,Eligible,Meets Donation Criteria,2.0,Warangal Blood Bank,7.6,Available,Government Blood Bank - Hanamkonda,Government Hospital Hanamkonda
+Bensvin Rishin C,A+ve,20,18-25,Male,Matwada,Eligible,Meets Donation Criteria,6.0,Indian Red Cross Blood Bank,1.1,Unavailable,Community Blood Donation Center,Max Care Hospital
+Keerthana Rao,A+ve,32,26-35,Female,Nakkalagutta,Not Eligible,Temporary Illness,2.0,Government Blood Bank - Hanamkonda,5.6,Available,Government Blood Bank - Hanamkonda,Kakatiya Medical College Hospital
+Keerthana Rao,B+ve,25,18-25,Female,Bhattupally,Eligible,Meets Donation Criteria,1.0,Warangal Blood Bank,14.2,Available,Community Blood Donation Center,Max Care Hospital
+Harsh Vardhan,O+ve,24,18-25,Male,Madikonda,Eligible,Meets Donation Criteria,4.0,Mgm Hospital Blood Bank,6.6,Available,Mgm Blood Bank,Mgm Hospital
+Bijo Babu,B+ve,52,46-55,Male,Mulugu Road,Eligible,Meets Donation Criteria,1.0,Mgm Hospital Blood Bank,5.9,Available,Warangal Blood Bank,Prathima Relief Institute
+Sai Kiran,O+ve,41,36-45,Male,Madikonda,Eligible,Meets Donation Criteria,8.0,Indian Red Cross Blood Bank,10.4,Unavailable,Not Specified,Rohini Super Speciality Hospital
+M K Vibin Uthaman,B+ve,52,46-55,Male,Lashkar Bazar,Eligible,Meets Donation Criteria,1.0,Mgm Hospital Blood Bank,1.5,Unavailable,Warangal Blood Bank,Mgm Hospital
+Harikrishnan K,AB+ve,25,18-25,Male,Kothawada,Eligible,Meets Donation Criteria,2.0,Indian Red Cross Blood Bank,8.2,Unavailable,Mgm Blood Bank,Aditya Hospital
+Aswin H,AB+ve,36,36-45,Male,Kishanpura,Eligible,Meets Donation Criteria,6.0,Mgm Hospital Blood Bank,4.0,Available,Warangal Blood Bank,Aditya Hospital
+Pooja Naik,A+ve,58,56-60,Female,Dharmasagar,Eligible,Meets Donation Criteria,7.0,Warangal Blood Bank,13.4,Available,Warangal Blood Bank,Aditya Hospital
+Sakthi K,O+ve,47,46-55,Male,Dharmasagar,Eligible,Meets Donation Criteria,5.0,Indian Red Cross Blood Bank,5.8,Available,Indian Red Cross Blood Bank,Max Care Hospital
+Naveen Kumar,A+ve,31,26-35,Male,Madikonda,Eligible,Meets Donation Criteria,8.0,Indian Red Cross Blood Bank,4.2,Unavailable,Community Blood Donation Center,Rohini Super Speciality Hospital

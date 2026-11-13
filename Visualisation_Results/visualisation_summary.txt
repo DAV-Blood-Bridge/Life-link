@@ -1,0 +1,17 @@
+BLOOD BANK DATA VISUALISATION SUMMARY
+==========================================
+Dataset records visualised: 118
+Charts generated: 9
+
+Charts:
+- age_distribution.png
+- age_group_distribution.png
+- blood_bank_distribution.png
+- blood_group_distribution.png
+- donation_count_distribution.png
+- donation_status_distribution.png
+- donor_availability.png
+- gender_distribution.png
+- top_10_places.png
+
+Note: Charts describe the supplied dataset only. Donor availability in this dataset should not be treated as real-time blood stock or confirmation of medical eligibility.
